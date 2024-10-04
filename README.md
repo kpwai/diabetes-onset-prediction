@@ -1,4 +1,4 @@
-# Diabetes Onset Prediction Using Pima Indian Diabetes Dataset (2020)
+# Diabetes Onset Prediction Using Pima Indian Diabetes Dataset
 
 ## Project Overview
 This project aims to predict the likelihood of diabetes onset among **Pima Indian women** using a variety of machine learning algorithms. The dataset includes various medical and demographic features like glucose concentration, BMI, age, and more. 
