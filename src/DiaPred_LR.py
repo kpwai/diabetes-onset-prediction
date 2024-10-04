@@ -6,7 +6,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 import matplotlib.pyplot as plt
 
 # Load dataset from the same folder
-file_path = "diabetes.csv"  # Ensure this file is in the same directory as your script
+file_path = "data/diabetes.csv"  # Ensure this file is in the same directory as your script
 data = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset
